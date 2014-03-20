@@ -7,6 +7,7 @@ object Hello {
     println("Mark was here too!")
     println("Jasper was here too :P -- jperf (github)")
     println("Laura wuz hear two! hooray!")
+    println("Sup guis itz Kyle")
   }
 
 }
