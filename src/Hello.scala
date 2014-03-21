@@ -10,6 +10,7 @@ object Hello {
     println("Sup guis itz Kyle")
     println("My name is Anthony and I was not here jk I was")
     println("Hello, world. --Jeremy")
+    println("Molly was here!")
   }
 
 }
