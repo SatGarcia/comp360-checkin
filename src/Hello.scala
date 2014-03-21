@@ -12,6 +12,7 @@ object Hello {
     println("Hello, world. --Jeremy")
     println("Molly was here!")
     println("Thomas was here...")
+    println("Happy Friday! <3Bonnie");
   }
 
 }
