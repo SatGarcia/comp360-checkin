@@ -14,6 +14,7 @@ object Hello {
     println("Thomas was here...")
     println("Happy Friday! <3Bonnie");
     println("I hate waking up to my Dad's horrible taste in music. -Paul");
+    println("That subtle essence that you do not perceive, that is the true self. -Neal")
   }
 
 }
